@@ -6,7 +6,7 @@
 }
 .top
 {
-    background-image: url("/images/background01.jpg");
+    background-image: url("images/background01.jpg");
     width: 1200px;
     height: 300px;
     margin: auto;
